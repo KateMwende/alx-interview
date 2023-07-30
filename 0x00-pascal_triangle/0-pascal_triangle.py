@@ -3,12 +3,13 @@
 pascal's triangle
 """
 
+
 def pascal_triangle(n):
     """
     returns a list of lists of integers
     """
     if n <= 0:
-      return []
+        return []
 
     triangle = [[1]]
 
@@ -20,4 +21,3 @@ def pascal_triangle(n):
         row.append(1)
         triangle.append(row)
     return triangle
-    
