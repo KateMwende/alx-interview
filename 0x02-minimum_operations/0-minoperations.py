@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
-Find least number of operations to achieve 'H' n number of times
+Find least no. of operations to achieve 'H' n number of times
 """
 
 
