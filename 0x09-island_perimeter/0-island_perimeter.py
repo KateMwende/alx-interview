@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Perimeter of the island 
+Perimeter of the island
 """
 
 
